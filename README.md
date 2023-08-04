@@ -1,2 +1,2 @@
-# db-capstone-project
+# Little Lemon DB-capstone-project
 
