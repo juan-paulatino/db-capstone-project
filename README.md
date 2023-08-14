@@ -16,11 +16,11 @@ You’ll also demonstrate your ability with the following tools and software:
 
 ## Little Lemon DB-capstone-project
 ### About the Project
-###Project info
+### Project info
 This module provides practical hands on experience with using MySQL. Set up a MySQL instance server in MySQL Workbench, then create an ER Diagram data model and implement it in MySQL.
-###Database queries procedures and prepared statements
+### Database queries procedures and prepared statements
 Use SQL to create virtual tables, stored procedures and prepared statements for Little Lemon restaurant.
-###Clients and visualization
+### Clients and visualization
 Visualize the sales data of a restaurant and implement a database client in Python.
 
 
