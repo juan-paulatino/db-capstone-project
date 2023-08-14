@@ -17,11 +17,43 @@ You’ll also demonstrate your ability with the following tools and software:
 ## Little Lemon DB-capstone-project
 ### About the Project
 ### Project info
-This module provides practical hands on experience with using MySQL. Set up a MySQL instance server in MySQL Workbench, then create an ER Diagram data model and implement it in MySQL.
-### Database queries procedures and prepared statements
-Use SQL to create virtual tables, stored procedures and prepared statements for Little Lemon restaurant.
-### Clients and visualization
-Visualize the sales data of a restaurant and implement a database client in Python.
+This module provides practical hands on experience with using MySQL. Set up a MySQL instance server in MySQL Workbench, then create an ER Diagram data model and implement it in MySQL. Use SQL to create virtual tables, stored procedures and prepared statements for Little Lemon restaurant. Visualize the sales data of a restaurant and implement a database client in Python.
+
+# Data Modeling
+To well-design the database, we start with the Entity Relationship Diagram(ER Diagram). This methodology requires dividing the information in the dataset into entities, and defining the relationship between them.
+
+The dataset contains the following entities:
+
+1. Customer
+2. Bookings
+3. Order
+4. Order Delivery
+5. Staff
+6. Menu
+7. Menu Items
+
+Let's start the three-level modeling.
+
+1. Conceptual Data Model:
+
+  The 3 basic components of Conceptual Data Model are:
+  - Entity: A real world thing
+  - Attribute: Characteristics or properties of an entity
+  - Relationship: Dependency or association between two entities
+
+2. Logical Data Model:
+
+3. Physical Data Model:
+
+# Database Model Implementation on MySQL Workbench
+1. ER-Diagram of the Data Mode
+2. Database implementation using Forward Engineer tool
+
+# Building a Dimensional Data Model for Little Lemon restaurant
+
+
+
+
 
 
 
