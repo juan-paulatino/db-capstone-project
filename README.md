@@ -1,6 +1,4 @@
 # Database Engineer Capstone by Meta
-## Little Lemon DB-capstone-project
-### About the Project
 The Capstone project enables you to demonstrate multiple skills from the Certificate by solving an authentic real-world problem. In this course, you will demonstrate your new skillset by designing and composing a database solution, combining all the skills and technologies you've learned throughout this program to solve the problem at hand.
 
 By the end of this course, you’ll have proven your ability to:
@@ -15,3 +13,6 @@ You’ll also demonstrate your ability with the following tools and software:
 -MySQL Workbench,
 -Tableau,
 -And Python.
+
+## Little Lemon DB-capstone-project
+### About the Project
