@@ -56,7 +56,13 @@ Let's start the three-level modeling.
 ![erdgithub2](https://github.com/juan-paulatino/db-capstone-project/assets/118320209/6f16dd5c-2a90-4770-85a8-f924ac36a7f8)
 
 
+<img width="691" alt="buenotas" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/b06a6071-c622-4467-b82a-b3974502a971">
+
+
+
+
 3. Database implementation using Forward Engineer tool
+   
 
 # Building a Dimensional Data Model for Little Lemon restaurant
 
