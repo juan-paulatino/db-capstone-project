@@ -56,8 +56,35 @@ Let's start the three-level modeling.
 <img width="837" alt="buenotas4" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/12259214-18b7-42a4-a832-e81da86bbf1c">
 
 
-3. Database implementation using Forward Engineer tool
-   
+2. Database implementation using Forward Engineer tool
+  This tool generates a SQL script which creates the database with its tables, columns and constraints from its ERD, and runs this script to have the database ready in MySQL Server.
+
+This is a part from the code that was generated using Forward Engineer tool: 
+-- MySQL Workbench Forward Engineering
+
+SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
+SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
+
+-- -----------------------------------------------------
+-- Schema global_super_store
+-- -----------------------------------------------------
+
+-- -----------------------------------------------------
+-- Schema global_super_store
+-- -----------------------------------------------------
+CREATE SCHEMA IF NOT EXISTS `global_super_store` DEFAULT CHARACTER SET utf8 ;
+USE `global_super_store` ;
+
+-- -----------------------------------------------------
+-- Table `global_super_store`.`Customers`
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS `global_super_store`.`Customers` (
+  `CustomerID` VARCHAR(100) NOT NULL,
+  `FullName` VARCHAR(255) NOT NULL,
+  `Segment` VARCHAR(100) NOT NULL,
+  PRIMARY KEY (`CustomerID`))
+ENGINE = InnoDB;
 
 # Building a Dimensional Data Model for Little Lemon restaurant
 
