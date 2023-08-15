@@ -62,7 +62,7 @@ Let's start the three-level modeling.
 
 This is a part from the code that was generated using Forward Engineer tool: 
 
-```python
+```SQL
 -- MySQL Workbench Forward Engineering
 
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
