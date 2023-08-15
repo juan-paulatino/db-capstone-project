@@ -60,7 +60,8 @@ Let's start the three-level modeling.
   This tool generates a SQL script which creates the database with its tables, columns and constraints from its ERD, and runs this script to have the database ready in MySQL Server.
 
 This is a part from the code that was generated using Forward Engineer tool: 
-```
+
+```sql
 -- MySQL Workbench Forward Engineering
 
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
@@ -87,6 +88,7 @@ CREATE TABLE IF NOT EXISTS `capstone`.`Customer` (
   `CustomerEmail` VARCHAR(45) NULL,
   PRIMARY KEY (`idCustomer`))
 ENGINE = InnoDB;
+
 
 ```
 # Building a Dimensional Data Model for Little Lemon restaurant
