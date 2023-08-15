@@ -56,12 +56,13 @@ Let's start the three-level modeling.
 <img width="837" alt="buenotas4" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/12259214-18b7-42a4-a832-e81da86bbf1c">
 
 
+
 2. Database implementation using Forward Engineer tool
   This tool generates a SQL script which creates the database with its tables, columns and constraints from its ERD, and runs this script to have the database ready in MySQL Server.
 
 This is a part from the code that was generated using Forward Engineer tool: 
 
-```sql
+```python
 -- MySQL Workbench Forward Engineering
 
 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0;
