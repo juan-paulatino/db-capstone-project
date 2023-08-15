@@ -58,8 +58,7 @@ Let's start the three-level modeling.
 
 <img width="691" alt="buenotas" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/b06a6071-c622-4467-b82a-b3974502a971">
 
-<img width="674" alt="buenotas2" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/2659fa6c-fae9-4f66-8c62-f149c5a7195e">
-
+<img width="755" alt="buenotas3" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/0fa0a60b-4ad2-4736-91df-3bc49b70b149">
 
 
 3. Database implementation using Forward Engineer tool
