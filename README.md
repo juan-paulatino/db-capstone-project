@@ -96,7 +96,7 @@ After executing the SQL script, the database will be ready to use on the server:
 <img width="147" alt="capstone4" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/fe676ba4-edd8-4213-9ca7-708417405f66">
 
 
-
+<img width="215" alt="capstone5" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/1179cb54-5f34-4c99-a561-c0a20430beb5">
 
 # Building a Dimensional Data Model for Little Lemon restaurant
 
