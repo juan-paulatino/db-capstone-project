@@ -53,13 +53,6 @@ Let's start the three-level modeling.
 1. ER-Diagram of the Data Model
    The implementation of the ER-Diagram (Entity Relationship Diagram) of the database on MySQL Workbench.
 
-![erdgithub2](https://github.com/juan-paulatino/db-capstone-project/assets/118320209/6f16dd5c-2a90-4770-85a8-f924ac36a7f8)
-
-
-<img width="691" alt="buenotas" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/b06a6071-c622-4467-b82a-b3974502a971">
-
-<img width="755" alt="buenotas3" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/0fa0a60b-4ad2-4736-91df-3bc49b70b149">
-
 <img width="837" alt="buenotas4" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/12259214-18b7-42a4-a832-e81da86bbf1c">
 
 
