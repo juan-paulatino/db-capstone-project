@@ -47,7 +47,7 @@ Let's start the three-level modeling.
 ![image](https://github.com/juan-paulatino/db-capstone-project/assets/118320209/1671658e-1aa7-4ad7-b0f4-4d194394b1f1)
 
 
-4. Physical Data Model:
+3. Physical Data Model:
    Physical Data Model describes a database-specific implementation of the database model. It contains information about the database columns, keys, constraints, and other RDBMS (Relational Database Management System) features.
    
 ![githubphysical](https://github.com/juan-paulatino/db-capstone-project/assets/118320209/425cc4af-09ed-48d7-9562-b4bdfc19aa88)
