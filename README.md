@@ -45,12 +45,18 @@ Let's start the three-level modeling.
 
 3. Physical Data Model:
    Physical Data Model describes a database-specific implementation of the database model. It contains information about the database columns, keys, constraints, and other RDBMS (Relational Database Management System) features.
+   
    ![simples](https://github.com/juan-paulatino/db-capstone-project/assets/118320209/361a6beb-9d0d-4270-8128-41932bad4fb5)
 
 
 # Database Model Implementation on MySQL Workbench
-1. ER-Diagram of the Data Mode
-2. Database implementation using Forward Engineer tool
+1. ER-Diagram of the Data Model
+   The implementation of the ER-Diagram (Entity Relationship Diagram) of the database on MySQL Workbench.
+
+<img width="437" alt="erdgithub" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/04259e2e-da22-49fc-ac9d-bea6e316a0e4">
+
+
+3. Database implementation using Forward Engineer tool
 
 # Building a Dimensional Data Model for Little Lemon restaurant
 
