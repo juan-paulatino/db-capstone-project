@@ -44,6 +44,8 @@ Let's start the three-level modeling.
 2. Logical Data Model:
 
 3. Physical Data Model:
+   Physical Data Model describes a database-specific implementation of the database model. It contains information about the database columns, keys, constraints, and other RDBMS (Relational Database Management System) features.
+   <img width="426" alt="simple" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/ee785447-3f75-4a31-9f70-c4e1a360b15d">
 
 # Database Model Implementation on MySQL Workbench
 1. ER-Diagram of the Data Mode
