@@ -100,29 +100,45 @@ After executing the SQL script, the database will be ready to use on the server:
 <img width="215" alt="capstone5" src="https://github.com/juan-paulatino/db-capstone-project/assets/118320209/1179cb54-5f34-4c99-a561-c0a20430beb5">
 
 ## Main entites and related attributes
-* Customers:
+* Customer:
   * PK → Customer ID
-  * Attributes → Full Name - Phone Number
-
-* Staff:
-  * PK → Staff ID
-  * Attributes → Name - Role - Salary - Address - Contact Number - Email
-
-* Menu Items:
-  * PK → Item ID
-  * Attributes → Item name - Category - Cuisine - Price
+  * Attributes → Full Name - Phone Number - Email
 
 * Bookings:
   * PK → Booking ID
-  * Attributes → Booking date - Customer - Table number - Number of Persons - Staff
+  * Attributes → Booking date - Table number
+  * FK → Customer ID
 
-* Orders:
+* Order:
   * PK → Order ID
-  * Attributes → Table number - Order date - Total cost - Booking ID - Items and Quantity
+  * Attributes → Order date - Total cost - Quantity 
+  * FK → Booking ID - Menu ID - Customer ID
 
-* Orders Delivery Status:
+* Menu:
+  * PK → Menu ID
+  * Attributes → Cuisine
+  * FK → Menu Items ID
+
+* Menu Items:
+  * PK → Menu Item ID
+  * Attributes → Starter - Course - Dessert - Drinks
+
+* Order Delivery:
   * PK → Order ID
-  * Attributes → Order ID - Delivery Date - Delivery Status
+  * Attributes → Delivery Date - Delivery Status
+  * FK → Order ID - Staff ID
+
+* Staff:
+  * PK → Staff ID
+  * Attributes → Name - Role - Salary
+
+
+
+
+
+
+
+
 
 
 
